@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.hero {
+    background: #007bff;
+    color: white;
+    padding: 50px 20px;
+}
